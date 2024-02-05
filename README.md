@@ -13,7 +13,8 @@ Starknet Cairo contract workshop
 starkli signer keystore new ~/.starknet_accounts/key.json
 export STARKNET_KEYSTORE=~/.starknet_accounts/key.json
 starkli account oz init ~/.starknet_accounts/starkli.json
-export STARKNET_RPC=https://starknet-testnet.public.blastapi.io
+starkli -vV # get rpc version
+export STARKNET_RPC=https://starknet-testnet.public.blastapi.io/rpc/v0_6
 starkli balance xxx # get faucet
 starkli account deploy ~/.starknet_accounts/starkli.json
 export STARKNET_ACCOUNT=~/.starknet_accounts/starkli.json
