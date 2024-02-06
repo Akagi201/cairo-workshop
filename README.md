@@ -26,6 +26,7 @@ export STARKNET_ACCOUNT=~/.starknet_accounts/starkli.json
 
 ## Books
 
+* [Starknet Book](https://book.starknet.io/title-page.html)
 * [Cairo Book](https://book.cairo-lang.org/)
 * [Starkli Book](https://book.starkli.rs/)
 
