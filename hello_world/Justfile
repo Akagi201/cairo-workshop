@@ -1,6 +1,9 @@
 build:
   scarb build
 
+format:
+  scarb fmt
+
 test:
   scarb test
 
