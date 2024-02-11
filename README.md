@@ -30,9 +30,16 @@ export STARKNET_ACCOUNT=~/.starknet_accounts/starkli.json
 * [Cairo Book](https://book.cairo-lang.org/)
 * [Starkli Book](https://book.starkli.rs/)
 
+## Nice Libs
+
+* <https://github.com/OpenZeppelin/cairo-contracts>
+* <https://github.com/keep-starknet-strange/alexandria>
+
 ## Tools
 
 * Wallet: Braavos
-* [Scarb](https://docs.swmansion.com/scarb) - build toolcahin and package manager for cairo
+* [Scarb](https://docs.swmansion.com/scarb) - build toolchain and package manager for cairo
 * [Starkli](https://github.com/xJonathanLEI/starkli) - starknet chain operate tool
 * [starknet-foundry](https://github.com/foundry-rs/starknet-foundry) - Foundry fork for cairo
+* <https://starkscan.co/> - explorer
+
