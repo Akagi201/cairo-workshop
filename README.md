@@ -43,4 +43,4 @@ export STARKNET_ACCOUNT=~/.starknet_accounts/starkli.json
 * [Starkli](https://github.com/xJonathanLEI/starkli) - starknet chain operate tool
 * [starknet-foundry](https://github.com/foundry-rs/starknet-foundry) - Foundry fork for cairo
 * <https://starkscan.co/> - explorer
-* <https://stark-utils.vercel.app/converter>
+* <https://stark-utils.vercel.app/converter> <https://www.stark-utils.xyz/converter>
