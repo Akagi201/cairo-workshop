@@ -32,6 +32,10 @@ export STARKNET_ACCOUNT=~/.starknet_accounts/starkli.json
 * [zkSecurity Starknet Book](https://zksecurity.github.io/stark-book/introduction.html)
 * <https://starklings.app/>
 
+## Notes
+
+* <https://akagi201.notion.site/starknet-cairo-intro?>
+
 ## Nice Libs
 
 * <https://github.com/OpenZeppelin/cairo-contracts>
